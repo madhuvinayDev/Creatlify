@@ -1,0 +1,6 @@
+{
+  "name": "Creatlify",
+  "description": "AI-Powered Design Tools for Modern Creators",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
